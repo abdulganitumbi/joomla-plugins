@@ -7,7 +7,7 @@
 -->
 <extension type="plugin" version="3.0" group="search" method="upgrade">
 	<name>plg_search_logregister</name>
-	<author></author>
+	<author>AbdulGani Tumbi</author>
 	<creationDate>February 2015</creationDate>
 	<copyright>Copyright (c) 2015 Logregister. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>

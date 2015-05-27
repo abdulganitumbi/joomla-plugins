@@ -23,7 +23,8 @@ class plgsearchLogregister extends JPlugin {
 	 * @param 	$subject
 	 * @param	array $config
 	 */
-	function __construct(&$subject, $config = array()) {
+	function __construct(&$subject, $config = array())
+	{
 		// call parent constructor
 		parent::__construct($subject, $config);
 	}
